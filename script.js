@@ -110,7 +110,7 @@ const neptune = createPlanet(7, neptuneTexture, 200);
 const pluto = createPlanet(2.8, plutoTexture, 216);
 
 // Adding Point light refers sunlight
-const pointLight = new THREE.PointLight(0xffffff, 7000, 300);
+const pointLight = new THREE.PointLight(0xffffff, 10000, 300);
 scene.add(pointLight);
 
 function animate() {
