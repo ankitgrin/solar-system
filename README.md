@@ -4,7 +4,7 @@ This is a simple solar system visualization created using Three.js, a JavaScript
 
 ## Preview
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/50664513/311494361-c148e5eb-4835-475f-b1ca-ac81d5aa4fee.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240310T080952Z&X-Amz-Expires=300&X-Amz-Signature=eb2695bca718133baea4e99ed05136721634663b1e547dd161957b31787798bd&X-Amz-SignedHeaders=host&actor_id=50664513&key_id=0&repo_id=769814103
+![solar-system](https://github.com/ankitgrin/solar-system/assets/50664513/c148e5eb-4835-475f-b1ca-ac81d5aa4fee)
 
 ## Features
 
