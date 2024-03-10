@@ -24,4 +24,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## Inspiration
 
-The techniques used in this project were inspired by a tutorial on YouTube https://youtu.be/XXzqSAt3UIw?si=xHZGZ1Hihgxj15i0.
+The techniques used in this project were inspired by a tutorial on YouTube by Wael Yasmina.
